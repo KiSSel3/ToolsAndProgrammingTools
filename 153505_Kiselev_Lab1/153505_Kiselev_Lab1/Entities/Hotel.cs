@@ -15,6 +15,13 @@ namespace _153505_Kiselev_Lab1.Entities {
         }
 
         public void AddClient(string name) {
+            for (short i = 0; i < clientCollection.Count; ++i) {
+                if (clientCollection[i].Name.Equals(name)) {
+                    Console.WriteLine("Клиент уже зарегистрирован!");
+                    return;
+                }
+            }
+
             clientCollection.Add(new Сlient(name));
         }
 
