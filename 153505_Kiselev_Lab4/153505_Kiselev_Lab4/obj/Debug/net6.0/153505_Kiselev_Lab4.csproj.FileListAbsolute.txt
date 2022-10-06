@@ -1,0 +1,15 @@
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\bin\Debug\net6.0\153505_Kiselev_Lab4.exe
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\bin\Debug\net6.0\153505_Kiselev_Lab4.deps.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\bin\Debug\net6.0\153505_Kiselev_Lab4.runtimeconfig.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\bin\Debug\net6.0\153505_Kiselev_Lab4.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\bin\Debug\net6.0\153505_Kiselev_Lab4.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.csproj.AssemblyReference.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.AssemblyInfoInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.AssemblyInfo.cs
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.csproj.CoreCompileInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\refint\153505_Kiselev_Lab4.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\153505_Kiselev_Lab4.genruntimeconfig.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab4\153505_Kiselev_Lab4\obj\Debug\net6.0\ref\153505_Kiselev_Lab4.dll

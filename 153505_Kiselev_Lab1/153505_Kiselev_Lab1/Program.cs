@@ -50,7 +50,6 @@ internal class Program {
         Console.WriteLine("\n----------------\n");
         hotel.AddClient("Kiseleva");
 
-
         //TestCollection();
     }
 
