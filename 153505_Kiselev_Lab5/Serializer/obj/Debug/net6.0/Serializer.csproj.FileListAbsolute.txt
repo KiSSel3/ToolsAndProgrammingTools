@@ -1,0 +1,15 @@
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\bin\Debug\net6.0\Serializer.deps.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\bin\Debug\net6.0\Serializer.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\bin\Debug\net6.0\Serializer.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\bin\Debug\net6.0\153505_Kiselev_Lab5.Domain.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\bin\Debug\net6.0\153505_Kiselev_Lab5.Domain.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.csproj.CopyComplete
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\refint\Serializer.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\Serializer.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab5\Serializer\obj\Debug\net6.0\ref\Serializer.dll

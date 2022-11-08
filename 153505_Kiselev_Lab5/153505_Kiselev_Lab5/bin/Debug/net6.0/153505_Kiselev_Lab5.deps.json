@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "153505_Kiselev_Lab5/1.0.0": {
+        "dependencies": {
+          "Serializer": "1.0.0"
+        },
+        "runtime": {
+          "153505_Kiselev_Lab5.dll": {}
+        }
+      },
+      "153505_Kiselev_Lab5.Domain/1.0.0": {
+        "runtime": {
+          "153505_Kiselev_Lab5.Domain.dll": {}
+        }
+      },
+      "Serializer/1.0.0": {
+        "dependencies": {
+          "153505_Kiselev_Lab5.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "153505_Kiselev_Lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "153505_Kiselev_Lab5.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

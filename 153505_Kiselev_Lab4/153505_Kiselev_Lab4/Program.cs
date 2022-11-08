@@ -1,4 +1,5 @@
-﻿using _153505_Kiselev_Lab4;
+﻿using _153505_Kiselev_Lab4.Entities;
+using _153505_Kiselev_Lab4.Service;
 using System.Collections.ObjectModel;
 
 internal class Program
