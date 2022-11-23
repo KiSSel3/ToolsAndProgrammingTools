@@ -1,11 +1,17 @@
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\153505_Kiselev_Lab6.deps.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\153505_Kiselev_Lab6.runtimeconfig.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\153505_Kiselev_Lab6.exe
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\MyLib.deps.json
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\MyLib.dll
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\MyLib.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\153505_Kiselev_Lab6.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\bin\Debug\net6.0\153505_Kiselev_Lab6.pdb
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.csproj.CopyComplete
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.dll
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\refint\MyLib.dll
 D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab6\MyLib\obj\Debug\net6.0\MyLib.pdb

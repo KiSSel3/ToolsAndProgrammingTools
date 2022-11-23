@@ -4,17 +4,21 @@
     "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj": {
+    "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj",
-        "projectName": "MyLib",
-        "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj",
+        "projectUniqueName": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6.csproj",
+        "projectName": "153505_Kiselev_Lab6",
+        "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\obj\\",
+        "outputPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,71 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj",
+        "projectName": "MyLib",
+        "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\MyLib.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6.csproj": {
+                "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6\\153505_Kiselev_Lab6.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

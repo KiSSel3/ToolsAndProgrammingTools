@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLib
+namespace _153505_Kiselev_Lab6
 {
     public interface IFileService<T> where T : class
     {

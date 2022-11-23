@@ -1,18 +1,19 @@
 ﻿using System.Text.Json;
+using _153505_Kiselev_Lab6;
 
 namespace MyLib
 {
-    public class FileService : IFileService<Employee>
+    public class FileService<T> : IFileService<T> where T : class
     {
-        IEnumerable<Employee> IFileService<Employee>.ReadFile(string fileName)
+        public IEnumerable<T> ReadFile(string fileName)
         {
             using (FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate))
             {
-                return JsonSerializer.Deserialize(fileStream, typeof(List<Employee>)) as List<Employee>;
+                return JsonSerializer.Deserialize(fileStream, typeof(List<T>)) as List<T>;
             }
         }
 
-        void IFileService<Employee>.SaveData(IEnumerable<Employee> data, string fileName)
+        public void SaveData(IEnumerable<T> data, string fileName)
         {
             using (FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate))
             {

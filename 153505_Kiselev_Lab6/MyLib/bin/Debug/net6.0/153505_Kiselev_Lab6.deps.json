@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MyLib/1.0.0": {
-        "dependencies": {
-          "153505_Kiselev_Lab6": "1.0.0"
-        },
-        "runtime": {
-          "MyLib.dll": {}
-        }
-      },
       "153505_Kiselev_Lab6/1.0.0": {
         "runtime": {
           "153505_Kiselev_Lab6.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "MyLib/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "153505_Kiselev_Lab6/1.0.0": {
       "type": "project",
       "serviceable": false,
