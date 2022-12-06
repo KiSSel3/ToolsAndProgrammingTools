@@ -1,5 +1,6 @@
 ﻿using _153505_Kiselev_Lab6;
 using System.Reflection;
+using System.Runtime.Loader;
 
 internal class Program
 {
@@ -20,7 +21,9 @@ internal class Program
             Console.WriteLine(item);
         }
 
-        Assembly assembly = Assembly.LoadFrom("D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\bin\\Debug\\net6.0\\MyLib.dll");
+        AssemblyLoadContext context = new AssemblyLoadContext("MyLib.dll", true);
+
+        Assembly assembly = context.LoadFromAssemblyPath("D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab6\\MyLib\\bin\\Debug\\net6.0\\MyLib.dll");
         var myLibClassType = assembly.GetType("MyLib.FileService`1").MakeGenericType(typeof(Employee));       
 
         if (myLibClassType is not null)
@@ -38,6 +41,7 @@ internal class Program
             {
                 Console.WriteLine(item);
             }
+            context.Unload();
         }
     }
 }

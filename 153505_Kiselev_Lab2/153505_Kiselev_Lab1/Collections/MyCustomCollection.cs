@@ -184,8 +184,7 @@ namespace _153505_Kiselev_Lab2.Collection
         {
             current = head;
         }
-
-        public IEnumerator<T> GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
             var buff = head;
 

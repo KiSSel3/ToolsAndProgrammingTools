@@ -20,7 +20,7 @@ internal class Program
         Console.WriteLine("\n----------------\n");
 
         hotel.AddClient("Kiselev");
-.\        hotel.AddClient("Kiseleva");
+        hotel.AddClient("Kiseleva");
         hotel.AddClient("Ivanov");
 
         Console.WriteLine("\nИнформвация о клиентах:");
