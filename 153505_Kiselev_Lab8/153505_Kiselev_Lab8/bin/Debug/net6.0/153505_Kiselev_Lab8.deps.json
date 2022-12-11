@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "153505_Kiselev_Lab8/1.0.0": {
+        "dependencies": {
+          "IndividualTask": "1.0.0",
+          "Lorem.Universal.NET": "4.0.80"
+        },
+        "runtime": {
+          "153505_Kiselev_Lab8.dll": {}
+        }
+      },
+      "Lorem.Universal.NET/4.0.80": {
+        "runtime": {
+          "lib/netstandard2.0/Lorem.NET.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.80.0"
+          }
+        }
+      },
+      "IndividualTask/1.0.0": {
+        "runtime": {
+          "IndividualTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "153505_Kiselev_Lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lorem.Universal.NET/4.0.80": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ywT/QJZeqVoGD1W89Mwedvkv8kNfGV4WlGUyQpVb55pdKpll/BTKSk0l5WAbhbetNBTL8jwgHnkLid/Q5t4lGQ==",
+      "path": "lorem.universal.net/4.0.80",
+      "hashPath": "lorem.universal.net.4.0.80.nupkg.sha512"
+    },
+    "IndividualTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

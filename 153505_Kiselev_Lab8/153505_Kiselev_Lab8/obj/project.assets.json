@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lorem.Universal.NET/4.0.80": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Lorem.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Lorem.NET.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "IndividualTask/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IndividualTask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IndividualTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lorem.Universal.NET/4.0.80": {
+      "sha512": "ywT/QJZeqVoGD1W89Mwedvkv8kNfGV4WlGUyQpVb55pdKpll/BTKSk0l5WAbhbetNBTL8jwgHnkLid/Q5t4lGQ==",
+      "type": "package",
+      "path": "lorem.universal.net/4.0.80",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Lorem.NET.dll",
+        "lib/net461/Lorem.NET.xml",
+        "lib/netstandard1.0/Lorem.NET.dll",
+        "lib/netstandard1.0/Lorem.NET.xml",
+        "lib/netstandard2.0/Lorem.NET.dll",
+        "lib/netstandard2.0/Lorem.NET.xml",
+        "license.md",
+        "lorem.universal.net.4.0.80.nupkg.sha512",
+        "lorem.universal.net.nuspec"
+      ]
+    },
+    "IndividualTask/1.0.0": {
+      "type": "project",
+      "path": "../IndividualTask/IndividualTask.csproj",
+      "msbuildProject": "../IndividualTask/IndividualTask.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "IndividualTask >= 1.0.0",
+      "Lorem.Universal.Net >= 4.0.80"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab8\\153505_Kiselev_Lab8\\153505_Kiselev_Lab8.csproj",
+      "projectName": "153505_Kiselev_Lab8",
+      "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab8\\153505_Kiselev_Lab8\\153505_Kiselev_Lab8.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab8\\153505_Kiselev_Lab8\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab8\\IndividualTask\\IndividualTask.csproj": {
+              "projectPath": "D:\\Programming\\SecondCourse\\ToolsAndProgrammingTools\\153505_Kiselev_Lab8\\IndividualTask\\IndividualTask.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Lorem.Universal.Net": {
+            "target": "Package",
+            "version": "[4.0.80, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

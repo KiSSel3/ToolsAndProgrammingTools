@@ -1,0 +1,12 @@
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\bin\Debug\net6.0\IndividualTask.deps.json
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\bin\Debug\net6.0\IndividualTask.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\bin\Debug\net6.0\IndividualTask.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.csproj.AssemblyReference.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.AssemblyInfoInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.AssemblyInfo.cs
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.csproj.CoreCompileInputs.cache
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\refint\IndividualTask.dll
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\IndividualTask.pdb
+D:\Programming\SecondCourse\ToolsAndProgrammingTools\153505_Kiselev_Lab8\IndividualTask\obj\Debug\net6.0\ref\IndividualTask.dll

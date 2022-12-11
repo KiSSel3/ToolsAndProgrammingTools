@@ -14,8 +14,8 @@ internal class Program
         Thread thread4 = new Thread(new ParameterizedThreadStart(integral.SinX!));
         Thread thread5 = new Thread(new ParameterizedThreadStart(integral.SinX!));
 
-/*        thread1.Priority = ThreadPriority.Highest;
-        thread2.Priority = ThreadPriority.Lowest;*/
+        thread1.Priority = ThreadPriority.Highest;
+        thread2.Priority = ThreadPriority.Lowest;
 
         thread1.Start((0.0, 1.0, 100000000));
         thread2.Start((0.0, 1.0, 100000000));
